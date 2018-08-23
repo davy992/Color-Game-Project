@@ -69,7 +69,7 @@ function reset(){
   }
   h1.style.backgroundColor = "steelblue";
   messageDisplay.textContent = "";
-  resetButton.textContent = "Nove barve";
+  resetButton.textContent = "New colors";
 }
 
 
